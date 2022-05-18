@@ -1,4 +1,4 @@
-# Processo seletivo para a equipe de Data Science da Tevec
+# Processo seletivo para a equipe de Data Science da Infra Data
 
 Acesse o notebook Processo Seletivo para Data Science.ipynb e siga as instruções. Fique atento para os formatos de entrega.
 

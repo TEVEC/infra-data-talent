@@ -1,5 +1,5 @@
-# tevec-rh
-Olá Candidato! Esse repositório contém os processos seletivos da Tevec. 
+# infra-data-talent
+Olá Candidato! Esse repositório contém os processos seletivos da Infra Data. 
 
 Ficamos felizes com seu interesse. 
 
